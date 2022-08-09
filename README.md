@@ -3,7 +3,7 @@
 ### Hi there 👋I'm Tushar!
 
 [![Instagram Badge](https://img.shields.io/badge/-tushar_bodalwar-orange?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/tushar_bodalwar/)](https://instagram.com/tushar_bodalwar)
-[![Linkedin Badge](https://img.shields.io/badge/-TusharB4321-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/TusharB4321/)](https://www.linkedin.com/in/TusharB4321/)
+[![Linkedin Badge](https://img.shields.io/badge/-Tushar_Bodalwar-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Tushar_Bodalwar/)](https://www.linkedin.com/in/Tushar_Bodalwar/)
 
 ## ABOUT ME
 
